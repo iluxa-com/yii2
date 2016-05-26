@@ -7,7 +7,7 @@
 
 namespace yii\web;
 
-use yii\base\Event1;
+use yii1\base\Event;
 
 /**
  * This event class is used for Events triggered by the [[User]] class.
